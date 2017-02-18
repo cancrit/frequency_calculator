@@ -1,0 +1,11 @@
+frequency calculator parameters
+calculator type = experimental
+file list = file_list_DR.dat
+whitespace x = 5
+whitespace y = 5
+minimum period = 1
+initial automatic threshold percent = 50
+maximum number of undos = 10
+number of terminal lines to display = 5
+minimum baseline order = 0
+maximum baseline order = 10
